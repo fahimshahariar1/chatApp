@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/f_chat_shortproject/f_chat_shortproject.iml" filepath="$PROJECT_DIR$/f_chat_shortproject/f_chat_shortproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f_chat_shortproject/android/f_chat_shortproject_android.iml" filepath="$PROJECT_DIR$/f_chat_shortproject/android/f_chat_shortproject_android.iml" />
+    </modules>
+  </component>
+</project>
